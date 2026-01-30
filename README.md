@@ -1,43 +1,44 @@
 # 🎤 Voice Command Shopping Assistant
 
 A **voice-based shopping list web application** that allows users to manage their shopping list using **spoken commands** instead of typing.  
-This project demonstrates **voice recognition, simple NLP logic, backend processing, and cloud deployment** in an easy and practical way.
+This project demonstrates **voice recognition, simple NLP logic, backend processing, and cloud deployment** in a clear and practical way.
 
 ---
 
 ## 🌐 Live Website (Deployed Application)
 
 👉 **Live Demo:**  
-https://voice-shopping-assistant.onrender.com  
+https://voice-shopping-assistant-xp06.onrender.com/
 
-> 🔔 Note:  
-> - Open the link in **Google Chrome**  
-> - Allow **Microphone permission** when asked  
+> 🔔 Important:
+> - Open the link in **Google Chrome**
+> - Allow **Microphone permission**
+> - Wait 10–20 seconds if the page loads slowly (Render free tier)
 
 ---
 
-## 📖 Project Description (Easy Explanation)
+## 📖 Project Description (Easy to Understand)
 
-This application helps users create and manage a shopping list using their **voice**.
+The Voice Command Shopping Assistant helps users create and manage a shopping list using their **voice**.
 
-Example:
+### Example:
 - User says: **“Add apple to my list”**
 - The system understands the command
 - **Apple** is added to the shopping list automatically
 
-This project is inspired by real-world systems like **Alexa, Google Assistant, and grocery apps** where voice is used for quick actions.
+This project is inspired by real-world systems like **Alexa, Google Assistant, and grocery shopping apps** where voice commands are used for hands-free interaction.
 
 ---
 
 ## ✨ Key Features
 
 - 🎙 Voice command input using browser microphone  
-- 🧠 Understands simple natural language sentences  
-- ➕ Add items to shopping list  
-- ❌ Remove items from shopping list  
+- 🧠 Understands simple natural language commands  
+- ➕ Add items to shopping list using voice  
+- ❌ Remove items using voice commands  
 - 🗂 Automatic item categorization (Produce, Dairy, Meat, etc.)  
 - 💡 Smart suggestions based on shopping history  
-- 🌐 Deployed online with a live URL (HTTPS enabled)  
+- 🌐 Deployed online with a live HTTPS URL  
 - 🖥 Simple and clean user interface  
 
 ---
@@ -59,10 +60,10 @@ This project is inspired by real-world systems like **Alexa, Google Assistant, a
 
 1. User speaks a command  
 2. Browser converts voice to text  
-3. Text is sent to Flask backend  
-4. Backend processes the command (NLP logic)  
+3. Text command is sent to Flask backend  
+4. Backend processes the command using NLP logic  
 5. Shopping list is updated  
-6. Result is shown on the web page  
+6. Result is displayed on the web page  
 
 ---
 
