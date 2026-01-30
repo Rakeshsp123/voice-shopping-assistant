@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voice Shopping Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h2>🎤 Voice Command Shopping Assistant</h2>
+
+<button onclick="startVoice()">🎙 Speak</button>
+<p id="spoken"></p>
+
+<ul>
+    {% for item in items %}
+        <li>{{ item.name }} ({{ item.category }})</li>
+    {% endfor %}
+</ul>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

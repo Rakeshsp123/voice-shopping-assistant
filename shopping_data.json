@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "name": "pencil",
+            "category": "Others",
+            "time": "2026-01-30 23:34:00.855493"
+        },
+        {
+            "name": "add",
+            "category": "Others",
+            "time": "2026-01-30 23:34:13.612477"
+        },
+        {
+            "name": "chicken",
+            "category": "Others",
+            "time": "2026-01-30 23:34:21.594543"
+        },
+        {
+            "name": "copy",
+            "category": "Others",
+            "time": "2026-01-30 23:34:35.243806"
+        },
+        {
+            "name": "list",
+            "category": "Others",
+            "time": "2026-01-30 23:35:10.157831"
+        },
+        {
+            "name": "copy",
+            "category": "Others",
+            "time": "2026-01-30 23:39:25.284226"
+        },
+        {
+            "name": "tv",
+            "category": "Others",
+            "time": "2026-01-30 23:39:33.530738"
+        },
+        {
+            "name": "banana",
+            "category": "Produce",
+            "time": "2026-01-31 00:21:03.707916"
+        },
+        {
+            "name": "chicken",
+            "category": "Meat",
+            "time": "2026-01-31 00:22:29.039474"
+        },
+        {
+            "name": "chicken",
+            "category": "Meat",
+            "time": "2026-01-31 00:30:33.829625"
+        },
+        {
+            "name": "pumpkin",
+            "category": "Others",
+            "time": "2026-01-31 00:30:46.065982"
+        },
+        {
+            "name": "mobile",
+            "category": "Others",
+            "time": "2026-01-31 00:30:53.726059"
+        },
+        {
+            "name": "watermelon",
+            "category": "Others",
+            "time": "2026-01-31 00:31:04.584553"
+        },
+        {
+            "name": "cucumber",
+            "category": "Others",
+            "time": "2026-01-31 00:31:10.777172"
+        },
+        {
+            "name": "cow",
+            "category": "Others",
+            "time": "2026-01-31 00:32:24.912441"
+        }
+    ],
+    "history": [
+        "banana",
+        "banana",
+        "apple",
+        "milk",
+        "pencil",
+        "add",
+        "chicken",
+        "copy",
+        "pineapple",
+        "list",
+        "copy",
+        "tv",
+        "apple",
+        "milk",
+        "fish",
+        "banana",
+        "chicken",
+        "apple",
+        "milk",
+        "chicken",
+        "pineapple",
+        "pumpkin",
+        "mobile",
+        "watermelon",
+        "cucumber",
+        "milk",
+        "milk",
+        "cow"
+    ]
+}
